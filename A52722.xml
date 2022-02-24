@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the life of God in all</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52722</idno>
+            <idno type="STC">Wing N321</idno>
+            <idno type="STC">ESTC R31710</idno>
+            <idno type="EEBO-CITATION">12246894</idno>
+            <idno type="OCLC">ocm 12246894</idno>
+            <idno type="VID">56973</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56973)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the life of God in all</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print showthrough with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56973:1"/>
+            <pb n="1" facs="tcp:56973:1" rendition="simple:additions"/>
+            <head>TO THE Life of GOD IN ALL.</head>
+            <p>THE love of that pretious Life of Chriſt Jeſus in me con<g ref="char:EOLhyphen"/>ſtraines me (as the light thereof ariſes) to declare to all people, and to generations to come, how that innocent, Juſt and Holy Life came to ſuffer in me and be betrayed, and I to loſe the light thereof, ſo far as to be taken cap<g ref="char:EOLhyphen"/>tive again under the power of darkneſſe, ſin and death, from which that life had once ſet me free, and born me in its ſelf for ſome years above all the craft, ſubtilty, and power of Satan that old deceiver and tempter of man-kind, who ceaſes not to take every oc<g ref="char:EOLhyphen"/>caſion that pure life to devour, &amp; ſo to take the creature captive again, who with that pretious life hath once been ranſomed, as once I had been by the living vertue thereof; For our of kindreds and eſtate, and all vi<g ref="char:EOLhyphen"/>ſible relations had he once called me and ſet me free, and had broken all my bonds, as to all earthly things wch was ſtrong &amp; many, and redeem<g ref="char:EOLhyphen"/>ed me from all my ſins paſt, and with his pretious blood had he ſprink<g ref="char:EOLhyphen"/>led my conſcience (before God) as though I had never ſinned in his fight, annointing me with the oyl of deliverance and peace towards God and man, and ſent me forth in the ſame bowels to call loſt and ſtrayed ſouls to the ſame everlaſting light, therein to wait for the appearance of the ſame purifying life and power in themſelves, there with to be ga<g ref="char:EOLhyphen"/>thered to the pure God, to whom the children of darkneſs and wicked workers cannot come, till with the word of life they be cleanſed and made new after himſelf, in whom is no iniquity.</p>
+            <p>And in this his work, by him I was preſerved againſt all enmity, born in all affliction, and feed above all wants within and without, though ſent into a ſtrange countrey without money, bag or ſcrip, and among a ſtrange people that knew not God, in the North parts of this <hi>Engliſh</hi> Nation, and I may truly ſay, as a Sheep among Wolves I was where e<g ref="char:EOLhyphen"/>ver I came, yet had none power to touch me further then what ſhould make for his glory in whom I lived, and the advantage of that work I was about, which he daily turned to my exceeding joy and great re<g ref="char:EOLhyphen"/>ward;
+<pb n="2" facs="tcp:56973:2" rendition="simple:additions"/>
+and his living preſence did ever furniſh me with renewed ſtrength againſt all contrary ſpirits and the power thereof, and in him I had judgement and power over them where ever they withſtood his pure work.</p>
+            <p>And in this ſame life and dominion did he bring me up into this great City <hi>London,</hi> into which I entered with the greateſt fear that ever into any place I came, in ſpirit foreſeeing ſomewhat to befal me therein, but not knowing what it might be, yet had I the ſame preſence and power as before, into what place or ſervices ſoever I was led of the Spirit, in that life I never returned without victory in Chriſt Jeſus the Lord thereof.</p>
+            <p>But not minding in all things to ſtand ſingle and low to the motions of that endleſs life, by it to be led in all things within and without, but giving way to the reaſoning part, as to ſome things which in themſelves had no ſeeming evil, by little and little drew out my mind after trifles, vanities, and perſons which took the affectionate part, by which my mind was drawn out from the conſtant watch and pure fear, into which I was once begotten, and ſpiritual adultery was commited againſt that pretious pure life, wch had purchaſed me unto himſelf alone, and is grieved with the leaſt departure from him in Body, Spirit or mind, e<g ref="char:EOLhyphen"/>ven that eternal pure and zealous Spirit from above had drawn me near into himſelf, and that Pure Word was become my life, who ſaid, <hi>He that doth but look upon a woman to luſt, commits Adultery, and in whoſe ſight the leaſt coveting or letting any viſible Object into the affections, is Idolatry,</hi> into that life I was comprehended, and the Apple of that pure Eye was opened in me, which admits not of an evil thought, but is woun<g ref="char:EOLhyphen"/>ded and bruiſed with the leaſt appearance of evil, even this birth was born, which reigns through righteouſnes, and ſuffers till all righteouſ<g ref="char:EOLhyphen"/>neſs be fulfilled in every particular, and this is the Son of God for ever, and into this Life and Kingdom I was tranſlated, and I was in him that is true, in whom there is no ſin, and He alone Lived and Ruled in this his Temple, which to himſelf he had purchaſed with his pretious blood, and his delight was in me, and his preſence was Glorious, and not the leaſt evil could appear, but I could feel him in Spirit lifting up his wit<g ref="char:EOLhyphen"/>neſſe againſt it; But when I reaſoned againſt his tender reproof, and conſulted with another, and ſo let the Creatures into my affections, then his Temple was defiled through luſt, and his pure Spirit was grieved, and he ceaſed to reprove, and he gave me up, and his light he with<g ref="char:EOLhyphen"/>drew, and his Judgement took away, and ſo the body of death and ſin revived again, and I poſſeſſed a freſh the iniqui<g ref="char:EOLhyphen"/>ties of my youth, and that which had of old been buried aroſe and ſtood againſt me, and ſo the Temple was filled with darkneſſe, and the power of death, and my heart with ſorrow, and Satan daily at my right hand to tempt me further to provoke the Lord, and to take away my life.</p>
+            <p>Thus having in a great meaſure loſt my own guide, and darkneſs being come upon me, I ſought a place where I might have been alone to weep and cry before the Lord, that his face I might find, and my condition
+<pb n="3" facs="tcp:56973:2"/>
+recover, but then my adverſary who had long waited his oportunity had got it, and beſtirred himſelf every way, ſo that I could not be hid, and divers meſſages came to me in that caſe, ſome true, ſome falſe (as I have ſeen ſince) ſo I knowing ſome to be true, to wit, how I had loſt my condition, with this I let in the falſe meſſage alſo, and ſo letting go that little of the True Light wch I had yet remaining in my ſelf, I gave up my ſelf wholly to be led by others, whoſe work was then wholly to divide me from the Children of Light, which was done, though much was done by divers of them to have prevented it, and in bowels of tender love many laboured to have ſtayed me with them, and after I was led out from them, the Lord God of my life ſent divers of his ſervants with his word after me for my re<g ref="char:EOLhyphen"/>turn, all which was rejected, yea the provocations of that time of temptation was exceeding great againſt the pure love of God, yet he left me not; For after I had given my ſelf under that power, and dark<g ref="char:EOLhyphen"/>neſs was above, my adverſary ſo prevailed, that all things was turned and perverted againſt my right ſeeing, hearing or underſtanding, onely a ſecret hope and faith I had in my God which I had ſerved, that he would bring me through it and to the end of it, and that I ſhould a<g ref="char:EOLhyphen"/>gain ſee the day of my redemption from under it all, and this quieted my ſoul in my greateſt tribulation.</p>
+            <p>Thus was I led out from amongſt the Children of Light, and into the World to be a ſign, where I was chaſed as a wandering Bird gone from her reſt, ſo was my ſoul daily, and my body from one priſon to another, til at length I was brought in their own way, before a back-ſliding pow<g ref="char:EOLhyphen"/>er to be judged, who had loſt their firſt love, as I had done, ſo they ſen<g ref="char:EOLhyphen"/>tenced me but could not ſee their ſign, &amp; a ſign to the Nation, &amp; a ſign to the world of the dreadful day of the Juſt God who is come and com<g ref="char:EOLhyphen"/>ing to avenge for that pure life where it is tranſgreſſed, and to plead the cauſe of that pretious Seed where ever it is oppreſſed, and ſuffers under the fleſhly luſts of this preſent World, and the Cup is deep and very dreadful that is ſeen and filling, and it hath begun at Gods Houſe, but many muſt drink it except there be ſpeedy repentance.</p>
+            <p>And in this time of my darkneſſe and night of great temptation, which darkneſſe I had let up over my head, and my judgement being much loſt, there got up many wilde Spirits, <hi>Ranters</hi> and ſuch like, acting ma<g ref="char:EOLhyphen"/>ny evil things againſt the Life of Truth and Name of Chriſt, his Light and People that walk therein, on purpoſe to bring reproach thereon, and ſet themſelves to break and diſquiet the Meetings of the People of God, and made uſe of my name therein; and others rejoyced thereat and cryed <hi>Thus would we have it, they are divided among themſelves, this is that we looked for, &amp;c.</hi> Others came to me in that time, in true pitty and in ſorrow of heart ſuffered with me for all that was befallen me and that pretious Truth I had walked in.</p>
+            <p>Thus became I an occaſion to make ſad the innocent and harmeleſſe people, whoſe hearts was tender, and to make glad the man that de<g ref="char:EOLhyphen"/>lights in miſchief, and ſuch as rejoyce in iniquity, and to gratifie ma<g ref="char:EOLhyphen"/>ny unclean Spirits, which things the pure God hates, and my ſoul
+<pb n="4" facs="tcp:56973:3"/>
+hates; and all that name that God had formerly given me in his houſe, and that power the wicked one made uſe on againſt the Lord and his Lambs, and his Truth, wherein I had received that name and power, thus I abuſed my power and knew not, by comming under him who ſeeks to pervert the right wayes of God, and his Truth to turn into a lye where ever he gets above, whom the Lord had once troden under my feet, and all his inſtruments, and over the head of all this was I kept by his power, while ſingly I ſtood in his pure councell, and hum<g ref="char:EOLhyphen"/>bly walked in his daily fear, the loſe whereof was of my ſelfe, and this to his eternall Glory I confeſs for ever.</p>
+            <p>So to that precious life of Chriſt Jeſus I confeſs openly, which I have openly ſinned againſt, which Life is the light of the World, and all the good that is in man is from the vertue thereof, which whoſoever goes from to feed elſewhere, forſakes their own mer<g ref="char:EOLhyphen"/>cies, and to this muſt return and confeſs again if ever they come to true peace in God, for this is the peace-maker and the Chriſt of God, and the Lamb that takes away ſin, and reconciles to the Father of Spirits, and that Spirit that quickens the dead, of whom I teſtifie for ever, and him I confeſs in the night and in the day, before God and before men, who under all hath been my help and Saviour, Immortall praiſes for ever.</p>
+            <p>And he that hath this precious life, hath the Son of the eternall God, and eternall life, and with all that receive him as King and leader, with ſuch the Father is well pleaſed, becauſe he alone it is that leads in all holy wayes, and out of all ſhew of luſt and uncleanneſs, and teaches to avoid every apperance of evil within and without, therefore the pure God loves him above all in Heaven and Earth, and hath placed his ful<g ref="char:EOLhyphen"/>neſs in Him, from whom the living of all ages are to be fed, and what ever good gift any Creature receives from God the Father, it is in this pure life, and for the ſake of this unſpotted ſeed, and that he alone (that Spirit) may be exalted in all and above all, not fleſh which is graſs whoſe glory turnes into duſt if this life withdraw its vertue, and all his wiſdom into ſhame and folly, who goes out from this light and coun<g ref="char:EOLhyphen"/>cell, for this life is he which being diſobeyed is mans fall, and his Spirit being grieved is Gods wrath upon every Creature, but in his favour is length of dayes and eternall glory, and both theſe I have learned in the day and in the night, ſo I give all glory to the life for ever more, and to him it is due, and all the evil hath been from ſelf.</p>
+            <p>This life is the Root and off-ſpring of all Heavenly fruit upon Earth, and in whom this is planted and as it growes, it will bring forth Truth and Righteouſneſs towards God and man, and the vertue that riſes with it, will fill the Creature with ſprings of Eternall Life and Heaven<g ref="char:EOLhyphen"/>ly Power, It will cover thee with health of Salvation and ſtay thee with Immortall ſtrength, He will guide thee with councell of Life, and open thy mouth in that Wiſdom which none ſhall confound, yea all the treaſures of Wiſdom and Knowledge are in Him, and the Richeſt excellency that ever appeared in fleſh, in him is ſealed for all genera<g ref="char:EOLhyphen"/>tions that receive Him in their faith and obedience, and as he riſes in
+<pb n="5" facs="tcp:56973:3"/>
+his temples he gives forth of his riches, gifts to adorn his Habitation, and to cover it with his Light and Glory. But this is the evil in his ſight and that which provoks his pure Spirit, that vain man in whom he thus delights ſhould be exalted in himſelfe becauſe of the gifts, and glory in his ſtrength and Wiſdom, and ſo grow wanton againſt the life from whence he hath it, and ſo through feeding on the gifts ceaſes to walke humbly with the giver in his own veſſell, here man forgets his God and ſo withers at the Root; And be the tree never ſo great it will fall in the end, and great will be the fall thereof.</p>
+            <p>And this is that God againſt whom I have ſinned, and my offence I confeſſe to the Root that bore me, who raiſeth up the meek and lowly, and caſteth down him that boaſteth above the root, who doth what he will in the Heavens and ruleth in the Kingdoms of men, the Lord of Hoſts is his Name, and he is worthy yea and will be feared, even ſo be it for ever more. And what ever of that worſhip or honour hath any way by any Creature been given or received to my perſon which be<g ref="char:EOLhyphen"/>longs to that Eternall Spirit, for ever by me it is denied and condemn<g ref="char:EOLhyphen"/>ed as Idolatry, And what ever Creature I have at any time gone out to from this pure Spirit and let in to my affections, or what ever I have taken counſell of without this life and againſt it, is for ever condemned as Adultry in my heart, and ſo I have found it in his pure ſight, to whom I confeſſe for my God and Saviour in all my troubles.</p>
+            <p>And in whom ſoever this pure Eternall Spirit of Life throughout the world hath been troubled or offended in man or woman through my fall, or the advantage which the adverſary got againſt my Soul, Gods truth, and his People, to that in all I acknowledge mine offence. A<g ref="char:EOLhyphen"/>gainſt thee have I ſinned who was with me in the deep, and in ſo many tender hearts for my recovery and ſalvation, which is one in all for ever confeſſed too, and the occaſion of the griefe thereof for ever condem<g ref="char:EOLhyphen"/>ned in the preſence of God, his Hoſt and People.</p>
+            <p>But againſt him that ſought my life in that day and rejoyced at that occaſion have I requited no evil in my heart, neither have I opened my mouth before the Lord that the evil day ſhould haſte, who rejoyced at my fall and was glad at that advantage to perſue my ſoul into the pit, that I might never have ſeen light more, nor have appeared in the Aſ<g ref="char:EOLhyphen"/>ſemblies of them which God hath ſanctified on the earth. But in the bowels of him that hath born me through all adverſitie I have been kept towards them, and I know it is the Spirit of Chriſt Jeſus which thinks not evil for evil, and when all viſible help was removed a far off, and I in the depth of the pit, then this was with me and in me before God, which often appeared when all elſe was gone, and many a time ſtayed my ſoul in ſecret that it ſunk not under the accuſer and the weight of his temptations when I was alone from any creature; and now ſeeing that the loving kindneſs of the Lord hath outlived all this enmi<g ref="char:EOLhyphen"/>tie, and the long ſuffering of Chriſt Jeſus hath born to the end thereof, and that endleſs life hath miniſtred freedom for me, thereto be glory and praiſe for evermore, And to God the Father of all be thanks for ever, who is begetting his creatures into that one pure Life, and with the
+<pb n="6" facs="tcp:56973:4"/>
+cords thereof hath bound up as in one bundle ſo many at this day who in his living Spirit and Power are made at the needfull time to ſtand be<g ref="char:EOLhyphen"/>fore him with cryes &amp; prayers one for another, which he hath heard and doth heare, even as he hath begotten thereto in every creature, the an<g ref="char:EOLhyphen"/>ſwer whereof makes many glad at this day, praiſes to God everlaſting.</p>
+            <p>And to the glory of this precious life is this ſent forth, that all that have ſinned againſt him may have hope in him and return, whoſe Judg<g ref="char:EOLhyphen"/>ments are right and his mercy endures for ever, and that all who have made their graves deep through diſobedience and their darkneſs thick through luſt, might awake and confeſs to the Lord of life and come forth, who quickeneth the dead, at his word the blind he makes to ſee, and hath called to the great deeps that his praiſes may live for ever.</p>
+            <p>And that all you in whom any meaſure of this precious life hath been betrayed, either through this or any other thing, that to the light there<g ref="char:EOLhyphen"/>of you may return in your ſelves, and there waite till the Life ariſe which is your return, and which muſt give you reſt with the flock of God, for its the Life thats the door and the fold, and without it you will be but wanderers and loſt in all your thoughts and motions, and God will croſs you and curſe you for its ſake and plead againſt you till you return, if he caſt you not off for often rebellion, from which the Lord keep you; And take heed of evill thoughts to which you will be tempted, you that are gone out from the true Light, or an evil eye going out of your own hearts againſt the truth you once was called into, or them that walke in it, to ſpie faults in others and feed thereon, This food will but ſtrenthen the enmity in you againſt you and your return, and with this you may make bonds which you cannot break when you would; And your evil thoughts are as witchcraft to the pure Life, and as a canker will eat till it have devoured all that remains in you to lead you to repentance, that not ſo much as the place thereof you will find in the end; And this I am moved to warn you of having been often tempted therewith, that the Life of Peace and Truth may only live and guide in you all, without which there can be no true unity with God or his People, which is that the devil chiefly hates and withſtands in all in whom he can prevaile.</p>
+            <p>Thus having drunken a meaſure of that depth which cannot be mea<g ref="char:EOLhyphen"/>ſured, I cannot but confeſſe thereto and declare thereof to his praiſe, who above all excelleth in judgment and mercy to every perticular crea<g ref="char:EOLhyphen"/>ture, in their ſeverall ſtates and conditions, that all might hear and take heed to abide in him whoſe off-ſpring they are, who hath his way in the deeps, and makes darkneſs as light before him, he turns man to deſtruction for his diſobedience, and the light of his word is Salvation, and his Life the Reſurrection out of the greateſt depth, who hath ſaved my ſoul from death thus far, and lift my feet up out of the pit, even to him be immortall glory for ever, and let every troubled ſoul truſt in him, for his mercy endureth for ever.</p>
+            <closer>
+               <signed>JAMES NAYLOR.</signed>
+            </closer>
+         </div>
+         <div type="continuation_of_text">
+            <pb n="7" facs="tcp:56973:4"/>
+            <head>And in the Day when my God lift my feet out of the Pit, was this given forth.</head>
+            <p>ITt is in my heart to praiſe thee O my God, let me never forget thee, what thou haſt been to me in the night, by thy preſence in the day of tryall, when I was beſet in darkneſs, when I was caſt out as a wandring bird, when I was aſſalted with ſtrong temptations, then thy pre<g ref="char:EOLhyphen"/>ſence in ſecret did preſerve me, and in a low eſtate I felt thee neer me when the floods ſought to ſweep me away, Thou ſet a compaſſe for them how far they ſhould paſſe over when my way was through the ſea, and when I paſſed under the mountains, there was thou preſent with me, when the weight of the hills was upon me, thou upheld me, elſe had I ſunk under the earth, when I was as one altogether helpleſs, when tribulation and anguiſh was upon me day and night, and the earth with<g ref="char:EOLhyphen"/>out foundation, when I went on the way of wrath and paſſed by the gates of Hell, when all comforts ſtood afar off, and he that is mine ene<g ref="char:EOLhyphen"/>my had dominion, when I was caſt into the pit, and was as one ap<g ref="char:EOLhyphen"/>pointed to death, when I was between the milſtones, and as one cruſh<g ref="char:EOLhyphen"/>ed with the weight of his adverſary, as a father thou was with me, and the Rock of thy preſence; when the mouths of lyons roared againſt me, and fear took hold on my ſoul in the pit, then I called upon Thee in the night, and my cryes was ſtrong before thee dayly, who anſwered me from thy Habitation, and delivered me from thy dwelling Place, Saying, I will ſet thee above all thy fears, and lift up thy ſeet above the head of oppreſſion, I beleeved and was ſtrengthed, and thy word was ſalvation, Thou didſt fight on my part when I wreſtled with Death, and when darkneſs would have ſhut me up, then thy light ſhone about me, and thy Banner was over my head, when my work was in the furnace, and as I paſſed through the fire, by Thee I was not con<g ref="char:EOLhyphen"/>ſumed, though the flames aſcended above my head, when I beheld the dreadfull viſions, and was amongſt the fiery Spirits, thy faith ſtayed me, elſe through fear I had fallen, I ſaw thee and beleeved, ſo the enemy could not prevaile.</p>
+            <p>When I look back into thy works, I am aſtoniſhed, and ſees no end of thy praiſes; glory, glory to thee, ſaith my ſoul, and let my heart be ever filled with thankſgiving, Whilſt thy works remaine, they ſhall ſhew forth thy power.</p>
+            <p>Then didſt thou lay the foundation of the Earth, and leadeſt me un<g ref="char:EOLhyphen"/>der the Waters, and in the deep didſt thou ſhow me wonders, and thy forming of the world; By thy hand thou led me in ſafety, till thou ſhewed me the pillors of the Earth, then did the Heavens ſhoure down, they was covered with darkneſs, and the powers thereof was ſhaken,
+<pb n="8" facs="tcp:56973:5" rendition="simple:additions"/>
+and thy Glory deſended, thou fil'd the lower parts of the earth with gladneſs, and the ſprings of the valleys were opened, thy ſhowres de<g ref="char:EOLhyphen"/>ſcended abundantly, ſo the earth was filled with vertue, thou made thy plant to ſpring, and the thirſty ſoul became as a watered garden, then didſt thou lift me out of the pit, and ſet me forth in the ſight of my enemies; Thou proclamed liberty to the captive, and called mine ac<g ref="char:EOLhyphen"/>quaintance neare me, they to whom I had been a wonder looked upon me, and in Thy love I obtained favour in thoſe who had forſook me, then did gladneſs ſwallow up ſorrow, and I forſook all my troubles, and I ſaid, how good is it that man be proved in the night, that he may know his folly, that every mouth may become ſilent in thy hand, untill thou make man known to himſelfe, and have ſlain the boaſter, and ſhew<g ref="char:EOLhyphen"/>ed him the vanity that vexeth thy Spirit.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Sign of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+            <pb facs="tcp:56973:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
